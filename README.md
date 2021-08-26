@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypackage is to …
+The goal of mypackage is to nothing
 
 ## Installation
 
