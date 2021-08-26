@@ -6,9 +6,16 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypackage is to nothing
+The goal of mypackage is to …
 
 ## Installation
+
+You can install the released version of mypackage from
+[CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("mypackage")
+```
 
 And the development version from [GitHub](https://github.com/) with:
 
